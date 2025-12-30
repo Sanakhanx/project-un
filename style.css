@@ -4,7 +4,8 @@
   box-sizing: border-box;
 }
 
-html, body {
+html,
+body {
   height: 100%;
   width: 100%;
 }
@@ -212,7 +213,10 @@ html, body {
   top: 5%;
   left: 50%;
 }
-.main .page4 h1, .main .page4 h2, .main .page4 .email-box, .main .page4 .submit-box {
+.main .page4 h1,
+.main .page4 h2,
+.main .page4 .email-box,
+.main .page4 .submit-box {
   margin-bottom: 15px;
 }
 .main .page4 .pack2 {
@@ -281,7 +285,10 @@ html, body {
   font-size: 25x;
 }
 
-.page1, .page2, .page3, .page4 {
+.page1,
+.page2,
+.page3,
+.page4 {
   margin-top: 40px;
 }
 
